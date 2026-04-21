@@ -49,7 +49,7 @@ https://github.com/gayatriakolkar6/coffeejunction1
 
 * HTML
 * CSS (inside HTML)
-* JavaScript (if used)
+* JavaScript
 
 ## 👩‍💻 Author
 
